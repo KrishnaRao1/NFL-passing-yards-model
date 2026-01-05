@@ -1,4 +1,4 @@
-Opponent,Wins,Losses,Win Pct,Games,Completions,Attempts,Comp Pct,Yards,Yards per Attempt,Yards per Game,TDs,INTs,Passer Rating,TD Pct,INT Pct,Sacks,Sack Yards Lost,Rank
+Opponent,Wins,Losses,Win Pct,Games,Completions,Attempts,Comp Pct,Yards,Yards per Attempt,YDS/G,TDs,INTs,Passer Rating,TD Pct,INT Pct,Sacks,Sack Yards Lost,Rank
 Ravens,4,3,0.571,7,130,224,58.0,1340,6.0,191.4,5,1,81.0,2.2,0.4,17,120,2
 Chargers,2,1,0.667,3,51,78,65.4,639,8.2,213.0,3,4,82.2,3.8,5.1,8,53,3
 Vikings,1,1,0.500,2,44,65,67.7,526,8.1,263.0,2,2,89.6,3.1,3.1,5,51,4
