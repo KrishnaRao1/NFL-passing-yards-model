@@ -1,4 +1,4 @@
-Opponent,Wins,Losses,Ties,Win Pct,Games,Completions,Attempts,Comp Pct,Yards,Yards per Attempt,YPG/G,TDs,INTs,Passer Rating,TD Pct,INT Pct,Sacks,Sack Yards Lost,Rank
+Opponent,Wins,Losses,Ties,Win Pct,Games,Completions,Attempts,Comp Pct,Yards,Yards per Attempt,YDS/G,TDs,INTs,Passer Rating,TD Pct,INT Pct,Sacks,Sack Yards Lost,Rank
 Vikings,19,12,1,0.609,32,694,1026,67.6,7875,7.7,246.1,61,11,105.8,5.9,1.1,85,554,1
 Titans,3,3,0,0.500,6,143,224,63.8,1661,7.4,276.8,14,4,99.6,6.3,1.8,14,121,2
 Texans,4,1,0,0.800,5,108,163,66.3,1336,8.2,267.2,17,1,123.7,10.4,0.6,7,53,3
