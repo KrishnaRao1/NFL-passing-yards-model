@@ -549,4 +549,5 @@ results_df = pd.concat([
 ], ignore_index=True)
 
 
-
+# Save results_df to CSV so app.py can just read it
+results_df.to_csv("results_df.csv", index=False)
